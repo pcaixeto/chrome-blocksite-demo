@@ -45,7 +45,12 @@ $ npm run dev
 [Click Here to show](https://dog-list-demo.vercel.app/)
 
 ## :scroll: TO-DOS
-   - Make responsive design
-   - Better frontend
+   - Chanve Javascript to Typescript
+   - Extension detects websites that are already open 
+   - Add schedule to block
+   - Organize HTML+CSS into separate files
+   - Add option to user inputs the website to be blocked
+   - Make google loads extension from github and not locally
+   - Search if there is a way to link Trello to github repos
 
 **By: Pedro Caixeta**
