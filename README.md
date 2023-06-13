@@ -1,5 +1,5 @@
 <h1 align="center">
-# Dog List
+# CXT Blocksite Plugin
 </h1>
 
 ## Screenshot
