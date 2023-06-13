@@ -45,7 +45,7 @@ $ npm run dev
 [Click Here to show](https://dog-list-demo.vercel.app/)
 
 ## :scroll: TO-DOS
-   - Chanve Javascript to Typescript
+   - Change Javascript to Typescript
    - Extension detects websites that are already open 
    - Add schedule to block
    - Organize HTML+CSS into separate files
